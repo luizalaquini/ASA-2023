@@ -1,2 +1,10 @@
-# ASA-2023
-Conteúdo e exercícios do treinamento "Analytics Skills Accelerator", conferido pela empresa Arcelor Mittal em outubro de 2023
+# Analytics Skills Accelerator 2023
+
+Conteúdo presente neste repositório:
+
+- Python, Pandas e Visualização de Dados
+- Análise Exploratória e Pré-processamento dos Dados
+- Aprendizado Supervisionado - Regressão
+- Aprendizado Supervisionado - Classificação
+- Aprendizado Não-supervisionado
+- Revisão com um Exemplo Completo
