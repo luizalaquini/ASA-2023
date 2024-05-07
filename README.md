@@ -8,3 +8,5 @@ Conteúdo presente neste repositório:
 - Aprendizado Supervisionado - Classificação
 - Aprendizado Não-supervisionado
 - Revisão com um Exemplo Completo
+
+As apresentações estão disponíveis [aqui!](https://drive.google.com/drive/folders/1CPQ5PtrrUS97NpE2ymqv_of-C9QYMBw2)
